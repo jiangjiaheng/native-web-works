@@ -1,0 +1,27 @@
+{
+    "name": "native-web-template",
+    "version": "1.0.0",
+    "description": "原生网页开发模板",
+    "main": "web_server.js",
+    "scripts": {
+        "server": "node web_server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jiangjiaheng/native-web-template.git"
+    },
+    "keywords": [
+        "native",
+        "web",
+        "template"
+    ],
+    "author": "jiangjiaheng",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/jiangjiaheng/native-web-template/issues"
+    },
+    "homepage": "https://github.com/jiangjiaheng/native-web-template#readme",
+    "dependencies": {
+        "jshint": "^2.11.0-rc1"
+    }
+}
